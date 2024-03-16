@@ -14,9 +14,9 @@ The todo-list application consists of two elements:
 
 ## Technologies
 - HTML
-- CSS
-- JavaScript
+- CSS (media-queries, flexbox, grid)
+- JavaScript ES6
 - BEM
 - Normalize
-- Flexbox
-- CSS Grid
+
+
